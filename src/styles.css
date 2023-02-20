@@ -349,7 +349,7 @@ img {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: rgba(25, 0, 0, 1);
+  background-image: url(../images/tarotImages/tarot1.png);
   transition: 0.1s;
   border: 5px solid white;
 }
