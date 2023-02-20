@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "fullpage.js/vendors/scrolloverflow"; // Optional. When using scrollOverflow:true
+//import "fullpage.js/vendors/scrolloverflow"; // Optional. When using scrollOverflow:true
 import pfp from "../images/pfp.jpg";
 import JobTabs from "./JobTabs";
 export default class AboutSection extends Component {

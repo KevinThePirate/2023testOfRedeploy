@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "fullpage.js/vendors/scrolloverflow";
+//import "fullpage.js/vendors/scrolloverflow";
 import ReactFullpage from "@fullpage/react-fullpage";
 import Data from "./data.json";
 import "./styles.css";

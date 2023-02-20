@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
-import "fullpage.js/vendors/scrolloverflow"; // Optional. When using scrollOverflow:true
+//import "fullpage.js/vendors/scrolloverflow"; // Optional. When using scrollOverflow:true
 import ReactFullpage from "@fullpage/react-fullpage";
 import { motion } from "framer-motion";
 import img1 from "../images/Rectangle1.png";

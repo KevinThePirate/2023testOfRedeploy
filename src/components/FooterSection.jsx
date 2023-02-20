@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "fullpage.js/vendors/scrolloverflow";
+//import "fullpage.js/vendors/scrolloverflow";
 import qrCode from "../images/qrCode.png";
 
 export default class FooterSection extends Component {
